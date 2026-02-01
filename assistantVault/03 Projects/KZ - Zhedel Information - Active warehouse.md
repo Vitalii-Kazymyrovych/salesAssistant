@@ -1,5 +1,4 @@
 ---
-schema_version: 1
 customer: "[[Active warehouse]]"
 integrator: "[[Zhedel Information]]"
 distributor: "[[MUK]]"

@@ -1,5 +1,4 @@
 ---
-schema_version: 1
 customer: "[[Active warehouse]]"
 project: "[[KZ - Zhedel Information - Active warehouse]]"
 tags:

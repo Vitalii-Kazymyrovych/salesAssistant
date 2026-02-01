@@ -6,16 +6,16 @@ This document defines the **canonical vault schema and terminology**.
 All agents, specs, and code MUST align with this file.
 
 - The **Application** produces notes.
-- The **Vault** is the primary human UI and long‑term knowledge base.
+- The **Vault** is the primary human UI and long-term knowledge base.
 - The **Operational DB** exists only for processing and scheduling.
 
 ---
 
 ## 2) Canonical terminology
 
-- **Entity**: One real‑world object represented by exactly one Markdown note.
+- **Entity**: One real-world object represented by exactly one Markdown note.
 - **Note**: A Markdown file inside the vault.
-- **Dialog**: A conversation thread (messages/emails/chats) stored as one append‑only note.
+- **Dialog**: A conversation thread (messages/emails/chats) stored as one append-only note.
 - **Call**: One call or recording stored as one note.
 - **Task**: An actionable checkbox item stored in task notes.
 
@@ -23,163 +23,237 @@ These terms are authoritative and must be used verbatim.
 
 ---
 
-## 3) Non‑negotiable principles
+## 3) Non-negotiable principles
 
 1. One entity = one note
 2. Links over duplication (`[[WikiLinks]]`)
-3. YAML frontmatter is mandatory
-4. Append‑only by default
-5. Versioned schema (`schema_version`)
+3. YAML frontmatter is mandatory and acts as a contract
+4. Append-only by default
 
 ---
 
-## 4) Root folder layout
+## 4) Vault folder layout (current)
 
 ```
-Sales Assistant/
-├── Distributors/
-├── Integrators/
-├── Customers/
-├── Tech Partners/
-├── People/
-│   ├── Customers/
-│   ├── Distributors/
-│   ├── Integrators/
-│   ├── Tech Partners/
-│   └── Vendor/
-├── Colleagues/
-├── Projects/
-├── Dialogs/
+assistantVault/
+├── 00 Util/
+│   ├── AGENT_LOG.md
+│   ├── DB_STRUCTURE.md
+│   ├── TECHNICAL_SPEC.md
+│   └── Countries and regions/
+├── 01 Vendor/
+├── 02 Partners/
+├── 03 Projects/
+├── 04 Dashboards/
 ├── Calls/
-├── Inbox/
-├── Knowledge/
-├── Technical Documentation/
-├── Specifications/
-├── Pricing/
-├── Requirement Matrices/
-├── Other Documents/
-├── Tasks/
-└── Dashboards/
+├── Dialogs/
+└── People/
 ```
 
-Folders are organizational; **type** in YAML is authoritative.
+Folders are organizational; YAML frontmatter and links are authoritative.
 
 ---
 
-## 5) Entity schemas
+## 5) Note types and structures
 
-### Companies (distributors, integrators, tech partners)
+### 5.1) Dashboards
+
+#### Task List (tasks note)
+**Path example:** `04 Dashboards/Task List.md`
+
+**Frontmatter**
 ```yaml
-schema_version: 1
-type: [distributor|integrator|tech_partner]
-name:
-region:
-specialization:
-technology:
+type: tasks
+created: YYYY-MM-DD
+```
+
+**Body**
+- Markdown task items with inline metadata:
+  - `due:: YYYY-MM-DD`
+  - `priority:: low|medium|high`
+  - `source:: [[<Call note>]]`
+- Each task MUST link back to its source dialog or call via `source::`.
+
+#### Inbox (dashboard)
+**Path example:** `04 Dashboards/Inbox.md`
+
+**Frontmatter**
+```yaml
+type: dashboard
+```
+
+**Body**
+- Dataview query that surfaces waiting dialogs.
+
+---
+
+### 5.2) People
+**Path example:** `People/Andrey Shumarev.md`
+
+**Frontmatter**
+```yaml
+role: <role>
+company: "[[<Company note>]]"
 contacts:
+  - <email>
+  - <phone>
+geo: "[[<Country/Region note>]]"
 ```
 
-### Customers (company)
+**Body**
+- Info callout describing the person.
+- Optional sections:
+  - `## Projects` (links to project notes)
+  - `## Dialogs` (links to dialog notes)
+  - `## Calls` (links to call notes)
+
+---
+
+### 5.3) Partners (companies)
+**Paths:** `02 Partners/*.md`
+
+This folder contains all company entities (customers, integrators, distributors, tech partners).
+The company role is indicated by tags.
+
+**Frontmatter**
 ```yaml
-schema_version: 1
-type: customer_company
-industry:
-location:
-primary_contacts:
-tags: [customer]
+geo: "[[<Country/Region note>]]"
+technology: <optional text>
+industry: <optional text>
+tags:
+  - customer|integrator|distributor|techpartner
 ```
 
-### People
+**Body**
+- Info callout describing the company.
+- Sections commonly used:
+  - `## People` (links to people notes)
+  - `## Projects` (links to project notes)
+  - `# Documents` or `# Other` (optional placeholders)
+
+---
+
+### 5.4) Projects
+**Path example:** `03 Projects/KZ - Zhedel Information - Active warehouse.md`
+
+**Frontmatter**
 ```yaml
-schema_version: 1
-type: person
-role:
-company:
-contacts:
-tags: [person]
+customer: "[[<Customer company note>]]"
+integrator: "[[<Integrator company note>]]"
+distributor: "[[<Distributor company note>]]"
+tech_partner: "[[<Tech partner note>]]"
+status: <status>
+start_date: YYYY-MM-DD
+end_date: <optional>
 ```
+
+**Body**
+- `## Project overview` summary.
+- `## Participants and roles` with links to people notes.
+- `## Project timeline` containing dated subsections with links to dialog/call anchors.
+- `## Documents` optional placeholder section.
 
 ---
 
-## 6) Projects
+### 5.5) Dialogs
+**Path examples:** `Dialogs/Andrey Shumarev - WhatsApp.md`, `Dialogs/Face recognition demo - Outlook.md`
+
+**Frontmatter**
 ```yaml
-schema_version: 1
-type: project
-customer:
-distributor:
-integrator:
-tech_partner:
-status: [lead|presale|delivery|support|closed|initiative]
-owners:
-start:
-end:
-tags: [project]
+customer: "[[<Customer company note>]]"
+project: "[[<Project note>]]"
+tags:
+  - waiting_for_me|inactive|... (status)
+  - whatsapp|outlook|... (channel)
 ```
+
+**Body**
+- `# Participants` list of people links.
+- `# Timeline` containing dated headings (`### YYYY-MM-DD`) and message entries.
+  - Each entry starts with a timestamp line and a `**type:**` line.
+- `## Context` with links to related vendor knowledge and partner notes.
+- Dialog notes may be empty placeholders until content is ingested.
 
 ---
 
-## 7) Communication notes
+### 5.6) Calls
+**Path example:** `Calls/2026.01.30 - 15-04 - Andrey Shumarev.md`
 
-### Dialogs
+**Frontmatter**
 ```yaml
-schema_version: 1
-type: dialog
-channel: [telegram|whatsapp|outlook|teams|other]
-chat_id:
-customer:
-project:
-participants:
-status: [waiting_for_me|waiting_for_customer|closed]
-created:
-updated:
-tags: [dialog]
+datetime: YYYY-MM-DD
+project: "[[<Project note>]]"
+duration: <minutes>
+tags:
+  - teams|zoom|meet|whatsapp|telegram|other
 ```
 
-### Calls
+**Body**
+- `# Participants` list of people links.
+- `## Summary` bullet list.
+- `## Action items` Markdown tasks (should be copied or referenced in task notes).
+
+---
+
+### 5.7) Vendor knowledge
+**Paths:** `01 Vendor/*.md`
+
+**Frontmatter**
 ```yaml
-schema_version: 1
-type: call
-datetime:
-format: [phone|zoom|meet|teams|whatsapp|telegram|other]
-customer:
-project:
-participants:
-duration:
-recording_ref:
-tags: [call]
+type: knowledge
+topic: <topic>
 ```
 
----
-
-## 8) Tasks
-
-Tasks are Markdown checkbox items stored in task notes.
-They MUST link back to their source dialog or call.
+**Body**
+- May be empty (placeholder) or contain knowledge content.
+- Linked from dialog `## Context` sections and project overviews.
 
 ---
 
-## 9) AI output blocks
+### 5.8) Countries and regions (utility notes)
+**Paths:** `00 Util/Countries and regions/*.md`
 
-AI output must be appended as a new block and never overwrite previous content.
-
----
-
-## 10) Interaction rules
-
-### Allowed
-- Create notes
-- Append blocks
-- Add missing YAML keys to app‑generated notes
-
-### Forbidden
-- Rewriting user content
-- Renaming or moving notes without deterministic rules
-- Deleting content
+**Body**
+- A list of links to countries/regions (e.g., `[[Kazakhstan]]`).
+- Notes may be empty placeholders, but should exist if referenced by `geo`.
 
 ---
 
-## 11) Mental model
+## 6) Interconnections (required links)
+
+- People link to their company and geo in frontmatter.
+- Company notes link back to people and projects.
+- Project notes link to customer/integrator/distributor/tech partner, and to dialogs/calls in the timeline.
+- Dialogs and calls link to the project and customer in frontmatter, and to participants in the body.
+- Tasks in Task List must reference their source call or dialog via `source:: [[...]]`.
+- Vendor knowledge notes are linked from dialog context sections and project overviews.
+
+---
+
+## 7) AI agent guide for vault management
+
+### Allowed actions
+- Create new notes with correct YAML frontmatter and canonical terminology.
+- Append new timeline entries, AI blocks, or task items.
+- Add missing YAML keys to app-generated notes.
+- Add links between related entities.
+
+### Forbidden actions
+- Rewriting or deleting user-authored text.
+- Renaming or moving notes without deterministic rules.
+- Reformatting existing notes.
+- Deleting user data.
+
+### Operational guidance
+- Always treat notes as append-only.
+- Use `[[WikiLinks]]` instead of duplicating text across notes.
+- When creating tasks, ensure `source::` points to the originating dialog or call.
+- Keep folder placement consistent with the note type described above.
+
+---
+
+## 8) Mental model
 
 > Vault = graph  
 > Application = producer  
-> User = editor‑in‑chief
+> User = editor-in-chief
