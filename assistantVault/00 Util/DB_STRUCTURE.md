@@ -37,22 +37,29 @@ These terms are authoritative and must be used verbatim.
 
 ```
 Sales Assistant/
-├── Дистрибьюторы/
-├── Интеграторы/
-├── Клиенты/
-├── Технологические партнёры/
-├── Коллеги/
-├── Проекты/
-├── Диалоги/
-├── Звонки/
-├── Техническая документация/
-├── Спецификации/
-├── Прайсы/
-├── Матрицы соответствия/
-├── Другие документы/
+├── Distributors/
+├── Integrators/
+├── Customers/
+├── Tech Partners/
+├── People/
+│   ├── Customers/
+│   ├── Distributors/
+│   ├── Integrators/
+│   ├── Tech Partners/
+│   └── Vendor/
+├── Colleagues/
+├── Projects/
+├── Dialogs/
+├── Calls/
+├── Inbox/
+├── Knowledge/
+├── Technical Documentation/
+├── Specifications/
+├── Pricing/
+├── Requirement Matrices/
+├── Other Documents/
 ├── Tasks/
-├── Dashboards/
-└── System/
+└── Dashboards/
 ```
 
 Folders are organizational; **type** in YAML is authoritative.
@@ -64,32 +71,31 @@ Folders are organizational; **type** in YAML is authoritative.
 ### Companies (distributors, integrators, tech partners)
 ```yaml
 schema_version: 1
-type: company
-role:
+type: [distributor|integrator|tech_partner]
+name:
 region:
+specialization:
+technology:
 contacts:
-tags: []
 ```
 
-### Clients
+### Customers (company)
 ```yaml
 schema_version: 1
-type: organization
-role: client
+type: customer_company
 industry:
 location:
-contacts:
-tags: [client]
+primary_contacts:
+tags: [customer]
 ```
 
-### Persons
+### People
 ```yaml
 schema_version: 1
 type: person
 role:
-department:
+company:
 contacts:
-skills:
 tags: [person]
 ```
 
@@ -99,11 +105,11 @@ tags: [person]
 ```yaml
 schema_version: 1
 type: project
-client:
+customer:
 distributor:
 integrator:
-tech_partners:
-status: [lead|presale|delivery|support|closed]
+tech_partner:
+status: [lead|presale|delivery|support|closed|initiative]
 owners:
 start:
 end:
@@ -120,10 +126,10 @@ schema_version: 1
 type: dialog
 channel: [telegram|whatsapp|outlook|teams|other]
 chat_id:
-client:
+customer:
 project:
 participants:
-status: [waiting_for_me|waiting_for_client|closed]
+status: [waiting_for_me|waiting_for_customer|closed]
 created:
 updated:
 tags: [dialog]
@@ -135,7 +141,7 @@ schema_version: 1
 type: call
 datetime:
 format: [phone|zoom|meet|teams|whatsapp|telegram|other]
-client:
+customer:
 project:
 participants:
 duration:
@@ -177,4 +183,3 @@ AI output must be appended as a new block and never overwrite previous content.
 > Vault = graph  
 > Application = producer  
 > User = editor‑in‑chief
-
