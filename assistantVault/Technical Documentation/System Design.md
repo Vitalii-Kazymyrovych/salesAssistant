@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-type: knowledge
+type: technical_doc
 topic: System Design
 ---
 # System Design
@@ -17,5 +17,5 @@ This note describes the base structure of the Personal Communication & Action Hu
 
 ## Links
 - [[Tasks/Task List]]
-- [[Inbox/2026-01-30 - John Smith]]
+- [[Dialogs/2026-01-30 - John Smith]]
 - [[Calls/2026-01-30 - John Smith Call]]

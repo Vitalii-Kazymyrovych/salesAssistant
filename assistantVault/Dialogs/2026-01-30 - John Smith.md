@@ -1,9 +1,11 @@
 ---
 schema_version: 1
-type: inbox_message
+type: dialog
 channel: telegram
 customer: [[Customers/Smith Security LLC]]
-chat_id: tg_123
+project: [[Projects/Hikvision Integration Project]]
+participants:
+  - [[People/Customers/John Smith]]
 status: waiting_for_me
 intent: integration_question
 confidence: 0.92
@@ -20,6 +22,6 @@ The customer wants to know whether our platform integrates with Hikvision camera
 Yes, we support integration via ONVIF and RTSP. Please share the camera model and firmware version.
 
 ## 🔗 Context
-- [[Knowledge/System Design]]
+- [[Technical Documentation/System Design]]
 - [[Customers/Smith Security LLC]]
 - [[Tasks/Task List]]

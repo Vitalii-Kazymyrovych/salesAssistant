@@ -8,13 +8,13 @@ contacts:
 ---
 # Ivan Ivanov
 
-Ivan Ivanov – проектный менеджер. Отвечает за коммуникацию с клиентами и координацию проектов.
+Ivan Ivanov is a project manager responsible for customer communication and project coordination.
 
-## Связанные диалоги
+## Related dialogs
 - [[Inbox/2026-01-30 - John Smith]]
 
-## Связанные звонки
+## Related calls
 - [[Calls/2026-01-30 - John Smith Call]]
 
-## Задачи
+## Tasks
 - [[Tasks/Task List]]

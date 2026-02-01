@@ -3,15 +3,15 @@ schema_version: 1
 type: tasks
 created: 2026-01-31
 ---
-- [ ] Подготовить и отправить коммерческое предложение клиенту [[Клиенты/John Smith]]
+- [ ] Prepare and send the commercial proposal to [[Customers/Smith Security LLC]]
   due:: 2026-02-02
   priority:: high
-  source:: [[Звонки/2026-01-30 - John Smith Call]]
-- [ ] Подтвердить совместимость системы с оборудованием клиента
+  source:: [[Calls/2026-01-30 - John Smith Call]]
+- [ ] Confirm system compatibility with the customer’s equipment
   due:: 2026-02-03
   priority:: medium
-  source:: [[Звонки/2026-01-30 - John Smith Call]]
-- [ ] Ответить на вопрос о интеграции Hikvision в [[Диалоги/2026-01-30 - John Smith]]
+  source:: [[Calls/2026-01-30 - John Smith Call]]
+- [ ] Reply about Hikvision integration in [[Dialogs/2026-01-30 - John Smith]]
   due:: 2026-01-31
   priority:: high
-  source:: [[Диалоги/2026-01-30 - John Smith]]
+  source:: [[Dialogs/2026-01-30 - John Smith]]
