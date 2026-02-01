@@ -1,5 +1,4 @@
 ---
-schema_version: 1
 geo: "[[CIS]]"
 technology: CCTV cameras
 tags: techpartner

@@ -1,5 +1,4 @@
 ---
-schema_version: 1
 type: tasks
 created: 2026-01-31
 ---

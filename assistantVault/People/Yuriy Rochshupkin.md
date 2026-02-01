@@ -1,5 +1,4 @@
 ---
-schema_version: 1
 role: CCTV Engineer
 contacts:
   - Yuriy.Rochshupkin@muk.kz

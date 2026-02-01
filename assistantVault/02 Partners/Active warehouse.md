@@ -1,5 +1,4 @@
 ---
-schema_version: 1
 industry: Logistics
 geo: "[[Kazakhstan]]"
 tags:
