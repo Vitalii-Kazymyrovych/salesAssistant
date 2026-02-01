@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "26b9337a68a245d9",
+        "id": "5c40d4de9343bd4a",
         "type": "tabs",
         "children": [
           {
-            "id": "2123b08b76ba5e09",
+            "id": "0923ad6c6184398d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -157,23 +157,14 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "bece9f604b5e0a0d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,43 +177,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "2123b08b76ba5e09",
+  "active": "0923ad6c6184398d",
   "lastOpenFiles": [
-    "00 Util/Countries and regions/CIS.md",
-    "02 Partners/MUK.md",
-    "02 Partners/Active warehouse.md",
-    "02 Partners/AXIS CIS.md",
-    "02 Partners/Zhedel Information.md",
-    "00 Util/Countries/Untitled.md",
-    "03 Projects/KZ - Zhedel Information - Active warehouse.md",
+    "00 Util/DB_STRUCTURE.md",
+    "People/Yuriy Rochshupkin.md",
+    "People/Andrey Shumarev.md",
     "Dialogs/Yuriy Rochshupkin - WhatsApp.md",
-    "Calls/2026.01.30 - 15-04 - Andrey Shumarev.md",
     "Dialogs/Face recognition demo - Outlook.md",
     "Dialogs/Andrey Shumarev - WhatsApp.md",
-    "People/Andrey Shumarev.md",
-    "People/Yuriy Rochshupkin.md",
+    "Calls/2026.01.30 - 15-04 - Andrey Shumarev.md",
     "04 Dashboards/Task List.md",
-    "00 Util/Documents/Example Contract.md",
-    "01 Vendor/Facial Recognition ACAP.md",
-    "Dashboards/Tasks.md",
     "04 Dashboards/Inbox.md",
-    "Compliance/Matrix of Requirements.md",
-    "01 Vendor/Facial Recognition.md",
-    "01 Vendor/Pricing/Pricing.md",
-    "Inbox/2026-01-30 - John Smith.md",
-    "People/Ivan Ivanov.md",
-    "People/John Smith.md",
-    "People/Maksym Kovalenko.md",
-    "02 Partners/Untitled.md",
-    "00 Util/Files",
-    "02 Partners",
-    "01 Vendor/Documents",
-    "01 Vendor/Marketing",
-    "01 Vendor",
-    "00 Util/Countries and regions",
-    "Compliance",
+    "04 Dashboards",
+    "03 Projects/KZ - Zhedel Information - Active warehouse.md",
     "03 Projects",
-    "01 Vendor/Pricing",
-    "People/Vendor"
+    "02 Partners/Zhedel Information.md",
+    "02 Partners/AXIS CIS.md",
+    "02 Partners/MUK.md",
+    "02 Partners/Active warehouse.md",
+    "02 Partners",
+    "01 Vendor/Facial Recognition ACAP.md",
+    "01 Vendor/Facial Recognition.md",
+    "01 Vendor",
+    "00 Util/Countries and regions/Kazakhstan.md",
+    "00 Util/Countries and regions/CIS.md",
+    "00 Util/Countries and regions",
+    "Technical Documentation/System Design.md",
+    "Technical Documentation",
+    "Tech Partners/Hikvision.md",
+    "Tech Partners",
+    "Tasks/Task List.md",
+    "Tasks",
+    "Specifications/Product Specification.md",
+    "Specifications",
+    "Requirement Matrices/Matrix of Requirements.md",
+    "Requirement Matrices",
+    "Projects/Hikvision Integration Project.md",
+    "Pricing/Pricing.md",
+    "People/Vendor/Sara Reed.md"
   ]
 }
