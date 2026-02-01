@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "533acec91023c14e",
+        "id": "26b9337a68a245d9",
         "type": "tabs",
         "children": [
           {
-            "id": "5c6bac930aa36848",
+            "id": "2123b08b76ba5e09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Util/TECHNICAL_SPEC.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TECHNICAL_SPEC"
+              "title": "New tab"
             }
           }
         ]
@@ -94,17 +90,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/2026-01-30 - John Smith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-01-30 - John Smith"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/2026-01-30 - John Smith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-01-30 - John Smith"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Util/TECHNICAL_SPEC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TECHNICAL_SPEC"
+              "title": "Outline"
             }
           },
           {
@@ -180,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,43 +186,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c6bac930aa36848",
+  "active": "2123b08b76ba5e09",
   "lastOpenFiles": [
-    "00 Util/DB_STRUCTURE.md",
-    "00 Util/TECHNICAL_SPEC.md",
-    "Tasks/Task List.md",
-    "Colleagues/Ivan Ivanov.md",
-    "Calls/2026-01-30 - John Smith Call.md",
-    "Звонки/2026-01-30 - John Smith Call.md",
-    "00 Util/AGENT_LOG.md",
-    "00 Util/New Text Document.txt",
-    "00 Util",
-    "Util/TECHNICAL_SPECIFICATION.md",
-    "Util/DB_STRUCTURE.md",
-    "Util",
-    "New folder",
-    "Clients/John Smith.md",
+    "00 Util/Countries and regions/CIS.md",
+    "02 Partners/MUK.md",
+    "02 Partners/Active warehouse.md",
+    "02 Partners/AXIS CIS.md",
+    "02 Partners/Zhedel Information.md",
+    "00 Util/Countries/Untitled.md",
+    "03 Projects/KZ - Zhedel Information - Active warehouse.md",
+    "Dialogs/Yuriy Rochshupkin - WhatsApp.md",
+    "Calls/2026.01.30 - 15-04 - Andrey Shumarev.md",
+    "Dialogs/Face recognition demo - Outlook.md",
+    "Dialogs/Andrey Shumarev - WhatsApp.md",
+    "People/Andrey Shumarev.md",
+    "People/Yuriy Rochshupkin.md",
+    "04 Dashboards/Task List.md",
+    "00 Util/Documents/Example Contract.md",
+    "01 Vendor/Facial Recognition ACAP.md",
+    "Dashboards/Tasks.md",
+    "04 Dashboards/Inbox.md",
+    "Compliance/Matrix of Requirements.md",
+    "01 Vendor/Facial Recognition.md",
+    "01 Vendor/Pricing/Pricing.md",
     "Inbox/2026-01-30 - John Smith.md",
-    "Welcome.md",
-    "Технологические партнёры/Hikvision.md",
-    "Технологические партнёры",
-    "Техническая документация/System Design.md",
-    "Техническая документация",
-    "Спецификации/Product Specification.md",
-    "Спецификации",
-    "Проекты/Проект Hikvision Integration.md",
-    "Проекты",
-    "Прайсы/Pricing.md",
-    "Прайсы",
-    "Матрицы соответствия/Matrix of Requirements.md",
-    "Матрицы соответствия",
-    "Коллеги/Ivan Ivanov.md",
-    "Клиенты/John Smith.md",
-    "Интеграторы/Integrator Y.md",
-    "Другие документы/Example Contract.md",
-    "Дистрибьюторы/Distributor X.md",
-    "Диалоги/2026-01-30 - John Smith.md",
-    "Dashboards/Inbox.md",
-    "Dashboards/Tasks.md"
+    "People/Ivan Ivanov.md",
+    "People/John Smith.md",
+    "People/Maksym Kovalenko.md",
+    "02 Partners/Untitled.md",
+    "00 Util/Files",
+    "02 Partners",
+    "01 Vendor/Documents",
+    "01 Vendor/Marketing",
+    "01 Vendor",
+    "00 Util/Countries and regions",
+    "Compliance",
+    "03 Projects",
+    "01 Vendor/Pricing",
+    "People/Vendor"
   ]
 }
