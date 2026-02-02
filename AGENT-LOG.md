@@ -1,0 +1,1 @@
+2026-02-02: Moved .gitignore to repo root and updated ignore rules. (tests: ./mvnw test -Dspring.task.scheduling.enabled=false -Dingestion.enabled=false -Dai.enabled=false -Dreminders.enabled=false -Dtranscription.enabled=false)
