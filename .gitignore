@@ -1,0 +1,34 @@
+salesAssistantBack/HELP.md
+salesAssistantBack/target/
+salesAssistantBack/.mvn/wrapper/maven-wrapper.jar
+!salesAssistantBack/**/src/main/**/target/
+!salesAssistantBack/**/src/test/**/target/
+
+### STS ###
+salesAssistantBack/.apt_generated
+salesAssistantBack/.classpath
+salesAssistantBack/.factorypath
+salesAssistantBack/.project
+salesAssistantBack/.settings
+salesAssistantBack/.springBeans
+salesAssistantBack/.sts4-cache
+
+### IntelliJ IDEA ###
+salesAssistantBack/.idea
+salesAssistantBack/*.iws
+salesAssistantBack/*.iml
+salesAssistantBack/*.ipr
+
+### NetBeans ###
+salesAssistantBack/nbproject/private/
+salesAssistantBack/nbbuild/
+salesAssistantBack/dist/
+salesAssistantBack/nbdist/
+salesAssistantBack/.nb-gradle/
+salesAssistantBack/build/
+!salesAssistantBack/**/src/main/**/build/
+!salesAssistantBack/**/src/test/**/build/
+
+### VS Code ###
+salesAssistantBack/.vscode/
+assistantVault/.obsidian/
