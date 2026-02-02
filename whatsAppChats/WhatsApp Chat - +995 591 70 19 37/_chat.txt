@@ -1,0 +1,132 @@
+[26.05.2025, 14:21:23] ~Amin: ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+[26.05.2025, 14:21:23] ~Amin:
+[13.05.2025, 13:45:52] Vitalii Kazymyrovych: ‎Waiting for this message. This may take a while.
+[13.05.2025, 14:59:52] ~Amin: ‎Waiting for this message. This may take a while.
+[13.05.2025, 15:32:41] Vitalii Kazymyrovych: ‎Waiting for this message. This may take a while.
+[13.05.2025, 15:33:14] Vitalii Kazymyrovych: ‎Waiting for this message. This may take a while.
+[30.05.2025, 10:57:57] ~Amin: Good day Vitali
+Hope everything goes well with you.
+For one other project I need to buy a Vazha license if it meet my requirement 
+Near the main road with 20-30 meter distance I want install 2 cameras to cover both ways and count the heavy cars only
+We don’t need plate number or details for now
+Just counting and export the reports in excel or pdf format
+‎[30.05.2025, 13:31:42] Vitalii Kazymyrovych: Hello, Amin. Nice to hear from you! I'm doing really well and hope you are too.
+
+I think we could use the Traffic Analytics module here. It allows you to draw a line in the frame and count objects of specific types that cross it. ‎<attached: 00000008-PHOTO-2025-05-30-13-31-42.jpg>
+‎[30.05.2025, 13:32:45] Vitalii Kazymyrovych: And then we can draw statistics in VEZHA or export it in csv, which can be easily converted into xlsx ‎<attached: 00000009-PHOTO-2025-05-30-13-32-45.jpg>
+[30.05.2025, 13:44:21] Vitalii Kazymyrovych: Btw, any news from Georgian Railroads?
+[30.05.2025, 13:45:43] ~Amin: I’m following them and we are preparing the quotation for them.
+The issue is that they are really lazy as governmental organization and they want do nothing
+We have to calculate tones of details for them😀
+[30.05.2025, 13:48:52] Vitalii Kazymyrovych: Any help from us that could speed up the process?
+[30.05.2025, 13:49:18] ~Amin: At the moment no and I hope soon we can finalize the financial step with them
+[30.05.2025, 14:06:30] Vitalii Kazymyrovych: Anyway, let’s stay in touch. If you need anything, I’m always here to help.
+[05.06.2025, 11:28:47] ~Amin: Hello Vitali.How are you?
+[05.06.2025, 11:29:29] ~Amin: about this solution I want know when do you have time to have a short talk?
+[05.06.2025, 11:30:07] Vitalii Kazymyrovych: Hello, Amin. Let's do it in 2 hours, if you have time.
+[05.06.2025, 11:30:14] ~Amin: ofcourse
+[05.06.2025, 13:15:22] Vitalii Kazymyrovych: I'm free now, you can call when you are free too ‎<This message was edited>
+[05.06.2025, 13:16:15] ~Amin: ‎Voice call  ‎Answered on other device
+[06.06.2025, 14:57:06] Vitalii Kazymyrovych: Hello, Amin. What about frames we discussed yesterday?
+[06.06.2025, 15:02:32] ~Amin: Good day Vitali
+[06.06.2025, 15:02:50] ~Amin: Today I couldn’t go there because of railway project
+[06.06.2025, 15:03:01] ~Amin: Till Monday I’ll send all necessary data
+[09.06.2025, 17:44:14] Vitalii Kazymyrovych: Hello, Amin. How things are going? Do you have any news?
+[09.06.2025, 21:04:47] ~Amin: Good evening Vitali
+I’m sorry for delay
+Nothing yet
+Waiting their permission to have access to their CCTV system
+[09.06.2025, 21:04:58] ~Amin: I’m following and soon will inform you
+[10.06.2025, 10:02:01] Vitalii Kazymyrovych: Hello, Amin. All right, no problem. Any news from railways?
+[11.06.2025, 08:04:48] ~Amin: Hello again
+This week I’m fully with them to create the budget
+And then we will wait for tender
+Already all documents are ready
+[11.06.2025, 10:57:11] Vitalii Kazymyrovych: Great news! Thank you)
+[02.07.2025, 17:56:05] Vitalii Kazymyrovych: Hello, Amin. Do we have any news?
+[23.07.2025, 11:55:03] Vitalii Kazymyrovych: Hello, Amin. Hope, you are doing well. Just want to say hi)
+[23.07.2025, 12:32:00] ~Amin: Good day Vitali.How are you?
+[23.07.2025, 12:32:18] ~Amin: I,m very pleased all time to get your messages
+[23.07.2025, 13:26:25] Vitalii Kazymyrovych: Pretty nice. We have a lot of new projects and several are already on the POC stage. Things are moving.
+[23.07.2025, 13:30:40] Vitalii Kazymyrovych: So, any news on our projects? What's the situation?
+[24.07.2025, 15:19:40] Vitalii Kazymyrovych: ?)
+[24.07.2025, 15:37:32] ~Amin: Hello again.
+[24.07.2025, 15:37:54] ~Amin: You know in this project happened lots of surprises man
+[24.07.2025, 15:38:22] ~Amin: They changed whole the Georgian railway management from the main head till all mid level managers
+[24.07.2025, 15:38:30] ~Amin: So again we are waiting
+[24.07.2025, 15:38:54] ~Amin: All documents are ready and it’s with them
+Also the budget is confirmed
+And just they should announce tender
+[25.07.2025, 12:47:59] Vitalii Kazymyrovych: Understood the situation, ok. What about another project, the one where we had to implement object detection?
+[25.07.2025, 13:40:15] ~Amin: The second project is ongoing and I,m following that one as well
+[25.07.2025, 14:08:39] Vitalii Kazymyrovych: Ok, understood
+[19.08.2025, 13:17:19] Vitalii Kazymyrovych: Hello, Amin
+[19.08.2025, 13:17:30] Vitalii Kazymyrovych: How how are you?
+[19.08.2025, 13:17:58] Vitalii Kazymyrovych: Any good news?
+[25.08.2025, 07:32:33] ~Amin: Good day Vitali and sorry for my late
+[25.08.2025, 07:32:36] ~Amin: How are you?
+[25.08.2025, 07:32:42] ~Amin: Unfortunately nothing yet
+[25.08.2025, 07:33:09] ~Amin: I’m following the case each week and as soon as getting news will inform you
+[03.09.2025, 11:16:44] ~Amin: Good day Vitaly
+[03.09.2025, 11:16:49] ~Amin: I’m here with Good news
+[03.09.2025, 11:17:05] ~Amin: They run our case again
+[03.09.2025, 11:17:19] Vitalii Kazymyrovych: Hi
+[03.09.2025, 11:17:21] Vitalii Kazymyrovych: Yeeeey)
+[03.09.2025, 11:18:37] ~Amin: Next week they have another meeting to discuss about budget and go to the tender
+[03.09.2025, 15:14:54] Vitalii Kazymyrovych: Need my assistance with something?
+[03.09.2025, 15:15:07] ~Amin: no.for now all good
+[08.09.2025, 12:49:29] Vitalii Kazymyrovych: Hello, Amin. How was your weekend?
+
+Could you let me know on which day this week the meeting with Georgian Railways will take place?
+[11.09.2025, 10:01:51] Vitalii Kazymyrovych: Hello?
+[11.09.2025, 10:02:15] ~Amin: Good day Vitali
+[11.09.2025, 10:02:22] ~Amin: Sorry I miss your message
+[11.09.2025, 10:02:39] ~Amin: Right now I’m in Vilnius and my team mates yesterday met with railway
+[11.09.2025, 10:02:55] ~Amin: Just I don’t have update with that meeting regarding my trip
+[11.09.2025, 10:03:06] ~Amin: I’ll talk with them and let you know
+[11.09.2025, 10:42:04] Vitalii Kazymyrovych: Oh, understood, thanks and have a nice trip)
+[17.09.2025, 12:16:47] Vitalii Kazymyrovych: Hello, Amin. Could you tell me characteristics of lighting that you used on railway project?
+[17.09.2025, 12:25:20] ~Amin: Good day Vitali
+[17.09.2025, 12:25:42] ~Amin: There was not any specific charasteristic
+[17.09.2025, 12:25:48] ~Amin: Let me find the picture and send you
+[17.09.2025, 12:26:01] ~Amin: I payed for each one in the local market around 9 usd
+[17.09.2025, 12:26:05] ~Amin: And I used 3
+‎[17.09.2025, 12:28:28] ~Amin: ‎<attached: 00000075-PHOTO-2025-09-17-12-28-28.jpg>
+‎[17.09.2025, 12:28:36] ~Amin: ‎<attached: 00000076-PHOTO-2025-09-17-12-28-36.jpg>
+[17.09.2025, 12:30:13] Vitalii Kazymyrovych: What is the approximate distance between the light and the train?
+[17.09.2025, 12:30:39] ~Amin: Less than 4 meter
+[17.09.2025, 12:31:01] Vitalii Kazymyrovych: Understood, thank you
+‎[17.09.2025, 12:31:18] ~Amin: ‎<attached: 00000080-PHOTO-2025-09-17-12-31-18.jpg>
+[17.09.2025, 16:56:00] Vitalii Kazymyrovych: Thank you! It was very helpful)
+[22.09.2025, 12:46:59] Vitalii Kazymyrovych: Hello, Amin. How the meeting went? Any news?
+[24.09.2025, 13:51:52] Vitalii Kazymyrovych: Hello?
+[24.09.2025, 13:52:21] ~Amin: Good day Vitali
+[24.09.2025, 13:52:31] ~Amin: Sorry I’m in trip and I miss your message again
+[24.09.2025, 13:52:44] ~Amin: Nothing yet and project is waiting the budget
+[24.09.2025, 13:52:52] ~Amin: Then they will announce tender
+[24.09.2025, 13:53:46] Vitalii Kazymyrovych: When are you expecting this to happen? Just need your personal opinion.
+[24.09.2025, 13:55:13] ~Amin: Before 2026 this project should be done in Georgia
+[24.09.2025, 13:55:23] ~Amin: It is what can keep me hopeful
+[24.09.2025, 13:55:51] Vitalii Kazymyrovych: Yes, it sounds optimistic
+[24.09.2025, 13:56:30] ~Amin: Behind of this delay is long story
+[24.09.2025, 13:56:55] Vitalii Kazymyrovych: Any assumptions when next steps could take place?
+[24.09.2025, 13:57:08] ~Amin: related the political decisions , what was like earthquick in Georgian Railway
+[24.09.2025, 13:57:22] ~Amin: and they changed all level of managements
+[09.10.2025, 14:40:19] Vitalii Kazymyrovych: Hello, Amin. Still no news?
+[10.10.2025, 14:22:18] Vitalii Kazymyrovych: Hello. Sorry for bothering you so often, but I need to update the project information regularly, even if there’s no news.
+[10.10.2025, 14:22:25] Vitalii Kazymyrovych: So, what's the status?)
+[13.10.2025, 11:25:54] Vitalii Kazymyrovych: Hi! Hope you’re doing well.
+[27.11.2025, 12:45:44] Vitalii Kazymyrovych: Hello, Amin! Any updates on the railroad project? I remember you had a meeting with the end user — did it take place?
+[08.12.2025, 12:47:50] Vitalii Kazymyrovych: Hello, Amin. How are you?
+[08.12.2025, 12:48:14] ~Amin: Good day Vitali
+[08.12.2025, 12:48:17] ~Amin: I,m fine
+[08.12.2025, 12:48:19] ~Amin: How are you?
+[08.12.2025, 12:50:15] ~Amin: 2 weeks a go I had meeting with them and the last decision is to create a budget for project.also they have a new mission to seat and calculate that the total budget will be return to Georgian Railway after how long time.thats why we should wait more
+[08.12.2025, 14:40:06] Vitalii Kazymyrovych: I’m good, except for the fact that I absolutely hate winter 😅
+[08.12.2025, 14:40:16] Vitalii Kazymyrovych: Nice to hear that)
+[08.12.2025, 14:46:29] Vitalii Kazymyrovych: No problem with waiting — I understand the situation.
+I just want to ask you to respond even if there are no updates.
+Let’s keep in touch 🙂
+[15.01.2026, 18:27:04] Vitalii Kazymyrovych: Hello, Amin. How are you?
+[19.01.2026, 15:41:51] Vitalii Kazymyrovych: Hello, is everything ok?
+[23.01.2026, 10:53:20] Vitalii Kazymyrovych: Hello?

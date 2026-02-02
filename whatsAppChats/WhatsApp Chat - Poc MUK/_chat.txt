@@ -1,0 +1,20 @@
+[14.01.2026, 08:46:34] Poc MUK: ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+[14.01.2026, 08:46:34] ~ Xavier Miota: ‎~ Xavier Miota created group “Poc MUK”
+[14.01.2026, 08:46:35] Poc MUK: ‎~ Xavier Miota added you
+[14.01.2026, 08:46:57] ~ Daniyar: ‎~ Xavier Miota added ~ Daniyar
+[14.01.2026, 08:47:10] ~ Yuriy_R: ‎~ Daniyar added ~ Yuriy_R
+[14.01.2026, 08:46:50] ~ Xavier Miota: Hello
+[14.01.2026, 08:47:23] ~ Daniyar: Hi everybody
+[14.01.2026, 08:47:37] ~ Daniyar: We need solve our problem with Kcell project
+[14.01.2026, 08:47:52] ~ Xavier Miota: We have issues with POC. Vitalii assist today when Yuri is next to PC
+[14.01.2026, 08:54:48] ~ Yuriy_R: Hello Xavier
+[14.01.2026, 08:55:26] ~ Yuriy_R: Vitally have a solution?
+[14.01.2026, 09:03:05] ~ Xavier Miota: Yes
+[14.01.2026, 16:18:14] ~ Xavier Miota: Hello, all working now?
+[14.01.2026, 16:46:57] ~ Yuriy_R: Amir from kcell impliment the new drivers tomorrow morning
+[14.01.2026, 16:47:53] ~ Xavier Miota: Ok
+[14.01.2026, 16:48:07] ~ Xavier Miota: Please let me know how it goes
+[14.01.2026, 16:50:42] ~ Yuriy_R: Sure. Today he was busy to work with server
+[15.01.2026, 08:50:15] ~ Yuriy_R: Xavier, good afternoon. I have a very critical requirement from the client. They need to use a secondary stream for recording from remote sites. Currently, VMS doesn't have this setting. Vitaly said this functionality is in development. Can you clarify when it will be ready?
+[15.01.2026, 10:11:59] ~ Yuriy_R: Engineer from client side update drives, but the situation not changed. Still Black screen
+[15.01.2026, 14:56:12] ~ Xavier Miota: Ok we will know more when we have the logs

@@ -1,0 +1,196 @@
+[04.12.2025, 08:07:50] incoresoft: ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+[04.12.2025, 08:07:50] Зураб: ‎Зураб created group “incoresoft”
+[04.12.2025, 08:07:51] incoresoft: ‎Зураб added you
+[04.12.2025, 08:08:54] Зураб: Dear colleagues good morning, here in this chat are Vitalii from incoresoft and Tornike from casino iveria
+
+we can cooperate here regarding software installation and photo importing
+[04.12.2025, 09:07:40] Vitalii Kazymyrovych: Good morning, everyone. Nice to meet you. Feel free to ask any questions you have about the software.
+[04.12.2025, 09:08:03] Зураб: Tornike pls provide anydesk id and pass
+[04.12.2025, 09:26:44] Зураб: თორნიკე ვერ გირეკავ
+[04.12.2025, 09:38:39] ~ Tornike: გამარჯობათ. 
+ოფისში მივდივარ დღეს მაგვიანდება ბოდიშით 
+როგორც მივალ მოვიწერები
+[04.12.2025, 10:07:30] ~ Tornike: Hello Vitalii
+[04.12.2025, 10:11:25] ~ Tornike: This is my Anydesk Address : 1 323 899 389  
+And password is: TestIveria123!
+[05.12.2025, 11:41:06] Vitalii Kazymyrovych: Hello, Tornike. How are you?
+I’m ready to install and configure the system. Is the PC available now?
+[05.12.2025, 12:00:09] ~ Tornike: hello
+[05.12.2025, 12:00:12] ~ Tornike: Yes
+[05.12.2025, 12:01:31] ~ Tornike: I think i accidentally turned anydesk off
+[05.12.2025, 12:01:37] ~ Tornike: You can join again
+[05.12.2025, 12:05:56] Vitalii Kazymyrovych: Ok
+[05.12.2025, 12:14:28] Vitalii Kazymyrovych: You didn't download VEZHA installation files yet, right?
+[05.12.2025, 12:14:43] ~ Tornike: No
+[05.12.2025, 12:14:53] ~ Tornike: I didnt
+[05.12.2025, 12:28:13] Vitalii Kazymyrovych: Ok, I'll disconnect for now. Please let me know, when the SW is downloaded.
+[05.12.2025, 13:20:18] ~ Tornike: 20m left
+[05.12.2025, 13:20:29] Vitalii Kazymyrovych: Ok, sorry for interrupting you) Just thought that it already downloaded)
+[05.12.2025, 13:21:48] ~ Tornike: It’s okay, I’m trying to kill time. :d
+[05.12.2025, 13:52:41] ~ Tornike: Done.
+[05.12.2025, 13:57:50] Vitalii Kazymyrovych: Good, I'll connect in 5 mn
+[05.12.2025, 14:27:13] Vitalii Kazymyrovych: Please, tell me where the photos are placed and how they are structured?
+[05.12.2025, 14:28:24] ~ Tornike: I have 600k photos. 
+But before we provide them 
+Our manager want to test system without providing all the photos
+[05.12.2025, 14:28:28] ~ Tornike: How can we do that?
+[05.12.2025, 14:32:26] Vitalii Kazymyrovych: I need rtsp stream
+[05.12.2025, 14:40:56] ~ Tornike: Im on team meeting rn. 
+Ill be back in 15-20min
+[05.12.2025, 14:41:11] Vitalii Kazymyrovych: Ok
+[05.12.2025, 14:42:00] Vitalii Kazymyrovych: I have a call in 20 minutes. Will connect again later.
+
+Please, prepare an rtsp stream and give me credentials.
+[05.12.2025, 14:42:43] ~ Tornike: Sure. Thank you
+[05.12.2025, 15:12:30] ~ Tornike: @⁨Зураб⁩  can you help me with rtsp stream?
+[05.12.2025, 15:20:31] Зураб: vitallii we spoke on phone and guys will prepare something and i will be able to get rtsp url
+[05.12.2025, 15:20:44] Зураб: i will copy rtsp stream here once done
+[05.12.2025, 15:46:52] Зураб: @⁨~Tornike⁩ did you change anydesk pass?
+[05.12.2025, 15:47:52] ~ Tornike: No i didn’t
+[05.12.2025, 15:48:15] ~ Tornike: Is there any problem with connection?
+[05.12.2025, 15:49:25] Зураб: connected
+[05.12.2025, 15:56:59] ~ Tornike: @⁨Зураб⁩ are you still with us ?
+[05.12.2025, 15:57:24] Зураб: just got disconnected.
+[05.12.2025, 15:57:27] Зураб: connecting again
+[05.12.2025, 15:58:34] Зураб: which camera are we connecting ?
+[05.12.2025, 15:58:39] Зураб: do you have IP ?
+[05.12.2025, 16:01:25] Зураб: @⁨Vitalii Kazymyrovych⁩ RTSP URL of Target camera 
+
+rtsp://172.16.0.69/stream1
+[05.12.2025, 16:01:33] Зураб: for main stream
+[05.12.2025, 16:01:43] Зураб: stream2 for secondary
+‎[05.12.2025, 16:01:53] ~ Tornike: ‎<attached: 00000249-PHOTO-2025-12-05-16-01-53.jpg>
+[05.12.2025, 16:01:58] ~ Tornike: Should we allow or?
+[05.12.2025, 16:02:07] Зураб: not necessary
+[05.12.2025, 16:02:26] Зураб: odm is mainly to get correct RTSP urls
+[05.12.2025, 16:05:01] Зураб: disconnected for now 
+
+let me know if you need anything else. 
+but from now i guess vitalii has to import photos and connect rtsp stream for analytics
+[05.12.2025, 16:07:18] Vitalii Kazymyrovych: What about login and password?
+[05.12.2025, 16:07:29] Зураб: admin admin
+[05.12.2025, 16:10:31] ~ Tornike: Photos are also ready 🙏
+[05.12.2025, 16:25:10] ~ Tornike: @⁨Vitalii Kazymyrovych⁩  will you be able to do that before 19:00 gmt+4h - tbilisi time?
+[05.12.2025, 16:25:15] ~ Tornike: If not we can continue on Monday
+[05.12.2025, 16:31:34] Vitalii Kazymyrovych: Let's not waist time)
+‎[05.12.2025, 16:38:13] Vitalii Kazymyrovych: These people should be added to the list, correct? ‎<attached: 00000260-PHOTO-2025-12-05-16-38-13.jpg>
+[05.12.2025, 16:38:17] ~ Tornike: Yes
+[05.12.2025, 16:40:40] ~ Tornike: Photos are png is it correct format?
+[05.12.2025, 16:50:55] Vitalii Kazymyrovych: I forget. You need to choose a folder, not open it😅
+[05.12.2025, 16:51:04] Vitalii Kazymyrovych: Thought this is a bug at first)
+‎[05.12.2025, 16:51:42] Vitalii Kazymyrovych: Well, all set up ‎<attached: 00000265-PHOTO-2025-12-05-16-51-42.jpg>
+[05.12.2025, 16:52:18] ~ Tornike: So what exactly can we do with your system ? :d can i go to camera and it will find me or ?
+[05.12.2025, 16:53:12] Vitalii Kazymyrovych: Can I call you ?
+[05.12.2025, 16:54:08] ~ Tornike: Sure
+[08.12.2025, 14:42:50] Vitalii Kazymyrovych: Greetings, colleagues. Do you have any questions or comments regarding the software?
+[08.12.2025, 14:51:02] Зураб: Hi Vitalii, they will purchase and position new cameras specially for FR, to get better results
+[08.12.2025, 14:51:12] Зураб: so as for now tests are ongoing
+[08.12.2025, 14:51:34] Зураб: we might need your help once more to assign new RTSP urls
+[08.12.2025, 14:52:15] Зураб: my suggestion was to get 4-5mpx or higher res varifocal cameras with good light sensitivity
+[08.12.2025, 15:02:14] Vitalii Kazymyrovych: Sure, no problems
+[08.12.2025, 15:02:36] Vitalii Kazymyrovych: Sounds good for me
+[11.12.2025, 12:57:19] ~ Tornike: Hello
+[11.12.2025, 12:58:27] ~ Tornike: DS-2CD1147G2H-LIU(2.8mm),4 MP ColorVu MD 2.0 Fixed Dome Network Camera
+
+,IP,Hiwatch,DS-I452L,2.8mm,IP,4MP,Dome,ColorVu,IR30,PoE,Mic,MicroSD,IP67,IK10
+
+IP Hikvision,DS-2CD1127G2H-LIUF,2.8mm,2mp,Dome,WL30m,Smart hybrid,ColorVu,Mic,SDcard,
+
+We can buy this cameras 
+Which one is better?
+[11.12.2025, 13:13:47] Зураб: hi Tornike
+[11.12.2025, 13:13:54] Зураб: we need varifocal cameras
+[11.12.2025, 13:14:00] Зураб: those are fixed lens cameras
+[11.12.2025, 13:14:08] Зураб: ask for varifocal camera options
+[16.12.2025, 13:26:12] ~ Tornike: Hello.
+
+For cameras 
+we have this options:
+
+
+https://shop.neotech.ge/cctv-ka/category-33/ip-ka/ip-hikvision-ds-2cd2743g2-lizs2u-2-8-12mm-4mp-dome-ir40m-mvfl-acusense-smart-hybrid-micro-sd/
+
+https://shop.neotech.ge/cctv-ka/category-33/ip-ka/ip-hikvision-ds-2cd2763g1-izs2-8-12-6mp-ka/
+
+https://shop.neotech.ge/cctv-ka/category-33/ip-ka/ip-hikvision-ds-2cd1763g2-lizsu-2-8-12mm-6mp-dome-ir30m-smart-hybrid-mvfl-micro-sd-mic/
+[16.12.2025, 13:26:21] ~ Tornike: can you please double check them ?
+[16.12.2025, 13:37:31] Зураб: hi tornike
+[16.12.2025, 13:37:34] Зураб: this one is ok
+[16.12.2025, 16:16:31] ~ Tornike: I also have a question regarding image quality. 
+To what extent are low-quality images considered acceptable, and could they cause any issues with accurate identification?
+‎[16.12.2025, 16:17:07] ~ Tornike: Are images of this quality acceptable? ‎<attached: 00000287-PHOTO-2025-12-16-16-17-07.jpg>
+[16.12.2025, 16:17:36] ~ Tornike: Some images are of even lower quality.
+[16.12.2025, 16:41:30] Зураб: this is acceptable
+[16.12.2025, 16:41:46] Зураб: there are no strict boundaries
+[16.12.2025, 16:42:20] Зураб: quality just makes identification more successful with less false positives
+‎[16.12.2025, 16:51:12] ~ Tornike: is this ok ? ‎<attached: 00000292-PHOTO-2025-12-16-16-51-12.jpg>
+[16.12.2025, 16:52:39] Vitalii Kazymyrovych: Hello. Use this: https://docs.incoresoft.com/ivig/latest/face-recognition-camera-installation-94609150.html
+[14.01.2026, 15:20:57] ~ Tornike: Hello,
+
+The new camera has arrived, and I can connect it to the laptop.
+Will you have time to configure it?
+[15.01.2026, 12:34:00] ~ Tornike: Hello
+[15.01.2026, 12:46:42] Vitalii Kazymyrovych: Hello, Tornike. I can connect in the afternoon and take a look.
+[15.01.2026, 12:51:11] ~ Tornike: Hi Vitalii, could you tell me the exact time so I can be prepared?
+[15.01.2026, 14:16:29] Vitalii Kazymyrovych: Let's say, in 2 hours.
+[15.01.2026, 16:11:24] ~ Tornike: Let me know once you’re ready
+[15.01.2026, 16:29:03] Vitalii Kazymyrovych: Ready
+[15.01.2026, 16:30:52] Vitalii Kazymyrovych: Give me camera IP, please
+[15.01.2026, 16:32:54] ~ Tornike: Done
+[15.01.2026, 16:32:58] ~ Tornike: I connected the camera
+[15.01.2026, 16:33:05] ~ Tornike: You can connect
+[15.01.2026, 16:33:42] Vitalii Kazymyrovych: By which IP?
+[15.01.2026, 16:34:01] ~ Tornike: 192.168.1.63
+[15.01.2026, 16:34:03] ~ Tornike: 64*
+[15.01.2026, 16:35:10] Vitalii Kazymyrovych: Seems I'm restricted from doing anything on the PC
+[15.01.2026, 16:35:47] ~ Tornike: Try connecting again
+[15.01.2026, 16:38:21] Vitalii Kazymyrovych: Need my help with adding camera to VEZHA?
+[15.01.2026, 16:40:15] ~ Tornike: Yes
+[15.01.2026, 16:41:33] Vitalii Kazymyrovych: Need login and password
+[15.01.2026, 16:41:55] ~ Tornike: Admin 
+1234 shift1234
+[15.01.2026, 16:42:05] ~ Tornike: !@#$
+[15.01.2026, 16:42:13] ~ Tornike: 1234!@#$
+[15.01.2026, 16:46:17] Vitalii Kazymyrovych: All good)
+[15.01.2026, 16:46:24] ~ Tornike: Thank you so much
+[15.01.2026, 16:46:45] Vitalii Kazymyrovych: No problem. Let me know if you need anything else.
+[15.01.2026, 16:47:08] ~ Tornike: I will write if ill have questions 
+Thank you
+[20.01.2026, 10:17:43] Vitalii Kazymyrovych: Hello, gentlemen. How’s the demo going? Any questions or requests so far?
+[20.01.2026, 10:33:21] ~ Tornike: Hello
+[20.01.2026, 10:34:01] ~ Tornike: I don’t have any questions for now, but I think I’ll have some tomorrow.
+[26.01.2026, 11:45:17] ~ Tornike: Hello,
+
+The system is able to successfully detect faces in the live camera feed
+however, it does not match detected faces with the photos that were previously provided and enrolled in the system.
+We also added photos that were taken directly by the system itself to the reference list, but the system still does not recognize or match the person
+Is there anything we can do?
+‎[26.01.2026, 11:47:01] ~ Tornike: this is photo i added manually to list. ‎<attached: 00000324-PHOTO-2026-01-26-11-47-01.jpg>
+‎[26.01.2026, 11:47:34] ~ Tornike: These are the photos that the system did not match. ‎<attached: 00000325-PHOTO-2026-01-26-11-47-34.jpg>
+‎[26.01.2026, 11:51:58] ~ Tornike: also this button does not work. ‎<attached: 00000326-PHOTO-2026-01-26-11-51-58.jpg>
+‎[26.01.2026, 12:03:27] ~ Tornike: ok i think problem was because list was not connected to camera ‎<attached: 00000327-PHOTO-2026-01-26-12-03-27.jpg>
+[26.01.2026, 13:01:59] ~ Tornike: it appears to be working well on our side.
+
+Could you please send us your commercial offer?
+[26.01.2026, 13:02:02] ~ Tornike: @⁨Зураб⁩
+[26.01.2026, 13:02:18] Зураб: Hi Tornike
+[26.01.2026, 13:02:35] Зураб: how many cameras are we planning to connect now?
+[26.01.2026, 13:03:40] Зураб: i remember we spoke about 10-15 previously but not sure
+[26.01.2026, 13:05:48] ~ Tornike: as i remember it was 3 
+But i will double check.
+[26.01.2026, 13:06:29] ~ Tornike: we want only 1 for now.
+[26.01.2026, 13:07:05] Зураб: ok understood
+‎[26.01.2026, 13:19:42] Vitalii Kazymyrovych: Hello, Tornike. The first thing to do to improve recognition is to upload photos to the list according to the documentation. 
+
+Check this manual: https://docs.incoresoft.com/ivig/latest/face-recognition-camera-installation-94609150.html
+
+It also contains plenty of helpful tips on how to adjust cameras. ‎<attached: 00000336-PHOTO-2026-01-26-13-19-42.jpg>
+[26.01.2026, 13:21:05] Vitalii Kazymyrovych: Do I understand correctly: the person was recognized several times, but matched against the list only once?
+[26.01.2026, 13:32:42] ~ Tornike: Nო
+[26.01.2026, 13:32:45] ~ Tornike: No
+[26.01.2026, 13:33:09] ~ Tornike: problem was because list was not connected to camera
+‎[26.01.2026, 13:33:28] ~ Tornike: ‎<attached: 00000341-PHOTO-2026-01-26-13-33-28.jpg>
+[26.01.2026, 13:33:31] ~ Tornike: now its working fine.
+[26.01.2026, 13:34:38] ~ Tornike: and problem is that we cannot upload according to the documentation because we have bad quality photos in our system.
+but i think its working fine now.
+[26.01.2026, 14:11:49] Vitalii Kazymyrovych: Ok, understood. ‎<This message was edited>

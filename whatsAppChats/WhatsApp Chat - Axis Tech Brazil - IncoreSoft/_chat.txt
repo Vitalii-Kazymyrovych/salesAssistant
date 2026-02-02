@@ -1,0 +1,44 @@
+[30.12.2025, 19:46:54] Axis Tech Brazil - IncoreSoft: ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+[30.12.2025, 19:46:54] ~ Alex Fernandes: ‎~ Alex Fernandes created group “Axis Tech Brazil - IncoreSoft”
+[30.12.2025, 19:46:54] Axis Tech Brazil - IncoreSoft: ‎~ Alex Fernandes added you
+[30.12.2025, 19:48:42] ~ Alex Fernandes: Hello Incoresoft Team,
+Thank you for today’s presentation; it was very good, and the team engaged well with new opportunities.
+
+I am creating this group to ensure the technical operation of the solution in our AEC, as well as to address any technical questions.
+
+Here, we only have the engineers and BDs from the region, who are precisely the ones technically responsible for the entire operation.
+[30.12.2025, 19:49:57] ~ Xavier Miota: Hello Alex, it was a pleasure and this is a great idea to get a faster response. 3 poeple from your team have already registered to the portal.
+[30.12.2025, 19:51:17] ~ Alex Fernandes: @⁨~Xavier Miota⁩ 
+We have installed four additional cameras, so if possible, please expand the license to cover a total of five cameras.
+We will be expanding our AEC with your solution.
+
+Next week, I would like to schedule a date to review what caused the solution to stop functioning.
+[30.12.2025, 19:51:33] ~ Alex Fernandes: Wow, Cool!
+[30.12.2025, 19:51:42] ~ Xavier Miota: no worries, will you run it from the same PC?
+[30.12.2025, 19:51:48] ~ Alex Fernandes: yes
+[30.12.2025, 19:51:52] ~ Alex Fernandes: the same server
+[30.12.2025, 19:52:47] ~ Xavier Miota: H7K7F-74VBY-RIQIB-2XVVK-VR2DW
+Incoresoft Demo Project
+-
+Incoresoft Distributor	Test client	
+IV-FR-EDGE: 5
+2025-12-30
+1 YEAR NFR 5 ACAP FR
+[30.12.2025, 19:53:08] ~ Xavier Miota: valid for 1 year
+[30.12.2025, 19:53:52] ~ Alex Fernandes: thank you Xavier!!!
+[30.12.2025, 19:54:57] ~ Xavier Miota: if you can set up some LPR ACAP let me know i can also send you 1-2 channels
+[30.12.2025, 19:57:32] ~ Xavier Miota: please let me know its the same process and we can set up a camera next call for you guys
+[30.12.2025, 19:58:46] ~ Alex Fernandes: The problem today is that we don't have external cameras at our office, we didn't get permission from the building to install them.
+But for a POC, it would be interesting.
+
+If you have any Axis cameras with a public IP address and could share them, that would be amazing.
+[30.12.2025, 19:59:21] ~ Xavier Miota: we will have one in Mexico with Acap soon
+[30.12.2025, 19:59:44] ~ Xavier Miota: outside Dans office ))
+[30.12.2025, 20:00:29] ~ Alex Fernandes: if posible to share...
+[08.01.2026, 16:46:42] ~ Pedro Augusto: Hello incorsoft teams! Would it be possible to schedule a meeting on the 14th from 10 a.m. to 11 a.m. or on any other date when you are available to configure the additional cameras? We added two more cameras (three in total) and are waiting for availability to add two more cameras. The main intention is to learn how to do it and, if possible, record this meeting to review internally with the BDMs and engineers.
+[12.01.2026, 22:17:55] ~ Alex Fernandes: @⁨Vitalii Kazymyrovych⁩ Hi, can you help us?
+[13.01.2026, 10:14:31] Vitalii Kazymyrovych: Hello, everyone. @⁨~Pedro Augusto⁩ 10 a.m. which time zone? If it’s Rio time, it works perfect for me.
+[13.01.2026, 12:49:57] ~ Alex Fernandes: Morning
+Yes Rio time zone
+[13.01.2026, 12:50:04] ~ Alex Fernandes: Thank you @⁨Vitalii Kazymyrovych⁩
+[13.01.2026, 15:01:56] ~ Pedro Augusto: I'll send the invite, Thank you @⁨Vitalii Kazymyrovych⁩!

@@ -1,0 +1,64 @@
+[20.01.2026, 10:29:30] ~Kanat Kaziev: ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+[20.01.2026, 10:29:30] ~Kanat Kaziev:
+‎[20.01.2026, 10:29:30] ~Kanat Kaziev: ‎<attached: 00000003-PHOTO-2026-01-20-10-29-30.jpg>
+[20.01.2026, 10:30:27] Vitalii Kazymyrovych: Middleware - 2001
+Nats - 4222
+Redis - 6379
+qdrant - 6333,6334
+PostgreSQL - 5432
+MinIO S3 - 9000, 9001
+ 
+Process-Runner
+TCP
+Process-Runner - 3020
+‎[20.01.2026, 10:31:02] ~Kanat Kaziev: ‎<attached: 00000005-PHOTO-2026-01-20-10-31-02.jpg>
+[20.01.2026, 10:42:04] ~Kanat Kaziev: Anydesk норм будет?
+[20.01.2026, 10:43:27] Vitalii Kazymyrovych: Отлично
+[20.01.2026, 10:45:08] ~Kanat Kaziev: 1624035689
+[20.01.2026, 10:48:12] Vitalii Kazymyrovych: Вы поставили устаревшую версию
+‎[20.01.2026, 10:48:30] ~Kanat Kaziev: ‎<attached: 00000010-AUDIO-2026-01-20-10-48-30.opus>
+[20.01.2026, 10:48:34] ~Kanat Kaziev: ‎Voice call  ‎1 min
+[20.01.2026, 10:56:21] ~Kanat Kaziev: В кавычках порт может
+[20.01.2026, 10:56:56] Vitalii Kazymyrovych: Та не, я уже разобрался. Там просто логи были открыты, поэтому не мог удалить папку.
+[20.01.2026, 10:57:16] Vitalii Kazymyrovych: Я проверяю на всякий случай, не заняты ли порты
+[20.01.2026, 10:57:21] ~Kanat Kaziev: Понял
+[20.01.2026, 11:00:04] Vitalii Kazymyrovych: Напишите, как скачается инсталл
+[20.01.2026, 11:00:12] ~Kanat Kaziev: 👍👍
+[20.01.2026, 11:00:22] Vitalii Kazymyrovych: Я пока отключусь
+[20.01.2026, 11:36:12] ~Kanat Kaziev: Распаковать архив?
+[20.01.2026, 11:39:17] ~Kanat Kaziev: Распаковал в общем, загрузка завершена. Подключитесь?
+[20.01.2026, 11:47:38] ~Kanat Kaziev: Виталий UI плагины ставить?
+[20.01.2026, 11:53:48] ~Kanat Kaziev: ‎Voice call  ‎2 min
+[20.01.2026, 11:58:05] Vitalii Kazymyrovych: -U postgres -d postgres -c "CREATE DATABASE videoanalytics WITH ENCODING 'UNICODE' LC_COLLATE 'C' LC_CTYPE 'C' TEMPLATE template0;" 
+-U postgres -d videoanalytics -c "CREATE USER videoanalytics WITH PASSWORD 'rqkiZmdd6LNiMTV;';" 
+-U postgres -d videoanalytics -c "CREATE SCHEMA videoanalytics AUTHORIZATION videoanalytics;"
+[20.01.2026, 12:14:37] Vitalii Kazymyrovych: Получилось?
+[20.01.2026, 12:17:06] ~Kanat Kaziev: Не совсем
+[20.01.2026, 12:17:10] ~Kanat Kaziev: Можете зайти?
+[20.01.2026, 12:17:15] Vitalii Kazymyrovych: Могу
+[20.01.2026, 12:25:09] ~Kanat Kaziev: M@ster7505
+[20.01.2026, 12:25:25] ~Kanat Kaziev: Пароль от юзера videoanalytics
+[20.01.2026, 12:25:36] Vitalii Kazymyrovych: Спасибо
+[20.01.2026, 12:34:16] Vitalii Kazymyrovych: Отойду на 2 минуты
+[20.01.2026, 12:34:26] ~Kanat Kaziev: Ok
+[20.01.2026, 12:37:06] Vitalii Kazymyrovych: пароль от postgres
+[20.01.2026, 12:37:17] ~Kanat Kaziev: M@ster7505
+[20.01.2026, 12:37:24] Vitalii Kazymyrovych: ок
+[20.01.2026, 12:44:27] Vitalii Kazymyrovych: Готово
+‎[20.01.2026, 12:44:41] ~Kanat Kaziev: ‎<attached: 00000037-AUDIO-2026-01-20-12-44-41.opus>
+[20.01.2026, 12:45:00] Vitalii Kazymyrovych: Пожалуйста
+‎[20.01.2026, 12:45:03] ~Kanat Kaziev: ‎<attached: 00000039-AUDIO-2026-01-20-12-45-03.opus>
+[20.01.2026, 12:46:27] Vitalii Kazymyrovych: Алармы: https://docs.incoresoft.com/ivms/latest/nx-vms-block-145818510.html
+Веб интеграция: https://docs.incoresoft.com/ivms/latest/nx-web-integration-guide-152241014.html
+[20.01.2026, 12:53:21] ~Kanat Kaziev: А пароль какой от самого incoresoft?
+[20.01.2026, 12:54:29] Vitalii Kazymyrovych: admin 
+admin
+[20.01.2026, 13:02:20] ~Kanat Kaziev: Не можем камеры добавить
+[20.01.2026, 13:11:34] ~Kanat Kaziev: ‎Missed voice call  ‎Tap to call back
+[20.01.2026, 13:11:48] Vitalii Kazymyrovych: На звонке
+[20.01.2026, 14:09:29] Vitalii Kazymyrovych: Не получается добавить по rtsp или NX?
+[20.01.2026, 14:09:46] ~Kanat Kaziev: По nx
+‎[20.01.2026, 14:10:24] ~Kanat Kaziev: ‎<attached: 00000048-AUDIO-2026-01-20-14-10-24.opus>
+[20.01.2026, 14:10:37] Vitalii Kazymyrovych: Я пока не могу подключиться. Часа через 2 буду свободен.
+[20.01.2026, 14:11:01] ~Kanat Kaziev: А завтра?
+[20.01.2026, 14:11:08] Vitalii Kazymyrovych: Ок, давайте завтра. С утра могу.

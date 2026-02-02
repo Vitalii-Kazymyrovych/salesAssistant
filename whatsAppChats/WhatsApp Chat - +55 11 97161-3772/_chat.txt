@@ -1,0 +1,157 @@
+[27.11.2025, 17:03:14] ~Daniel Pegorer: ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+[27.11.2025, 17:03:14] ~Daniel Pegorer:
+[26.11.2025, 19:36:42] Vitalii Kazymyrovych: Hello, Daniel. Please give me the details of your project so I could help you to calculate the hardware requirements for it.
+[26.11.2025, 19:36:52] Vitalii Kazymyrovych: It's Vitalii from Incoresoft.
+[26.11.2025, 19:52:28] ~Daniel Pegorer: Hi Vitalli. I'm preparing to send you. Today I will finish.
+Thanks for sending message here.
+[27.11.2025, 16:43:11] ~Daniel Pegorer: ‎Waiting for this message. This may take a while.
+[27.11.2025, 16:44:04] ~Daniel Pegorer: ‎Waiting for this message. This may take a while.
+[27.11.2025, 16:43:52] ~Daniel Pegorer: ‎Waiting for this message. This may take a while.
+[28.11.2025, 18:54:34] Vitalii Kazymyrovych: Hello, Danial. Can we have a call? ‎<This message was edited>
+[01.12.2025, 12:46:46] Vitalii Kazymyrovych: Hello, Daniel, hope, you are doing well. Let's discuss these requirements you sent me. I need to ask you a few questions.
+[01.12.2025, 13:54:57] ~Daniel Pegorer: Hi Vitalli, I can call you in 30 min. Will you be available?
+[01.12.2025, 13:55:44] Vitalii Kazymyrovych: Hello, yes, that would be nice.
+[01.12.2025, 14:32:31] ~Daniel Pegorer: How do you prefer to talk? If you want, I can create Meet from Google?
+[01.12.2025, 14:34:01] Vitalii Kazymyrovych: Google meet is fine
+[01.12.2025, 14:34:02] Vitalii Kazymyrovych: https://meet.google.com/qek-tpug-mkt
+‎[01.12.2025, 15:16:01] ~Daniel Pegorer: Vitalli - Platform Calculator.pdf • ‎6 pages ‎document omitted
+[03.12.2025, 18:08:32] Vitalii Kazymyrovych: Hello, Daniel. Will you have time tomorrow for a call to discuss the Argentina banking project and a few other questions?
+
+Would 10 AM your time work? I believe we have a 5-hour time difference.
+[03.12.2025, 18:13:49] ~Daniel Pegorer: Hello Vitalli, Yes, we can talk. I will share with you Hospital that we won with Axxon and machines.
+[04.12.2025, 12:47:45] ~Daniel Pegorer: Hi my friend, take a look in your email.
+[04.12.2025, 12:48:22] Vitalii Kazymyrovych: Hi, no problem. Tomorrow the same time?
+[04.12.2025, 13:17:05] ~Daniel Pegorer: Yes, please
+[05.12.2025, 15:02:39] Vitalii Kazymyrovych: 3 mn
+[05.12.2025, 15:02:45] Vitalii Kazymyrovych: I need to fix earphones
+[05.12.2025, 15:56:47] ~Daniel Pegorer: VLC
+[05.12.2025, 15:56:54] ~Daniel Pegorer: rtsp://admin:@Cnd102030@mitrenovaiorque.ddns-intelbras.com.br:554/cam/realmonitor?channel=1&subtype=1
+[05.12.2025, 15:57:24] ~Daniel Pegorer: rtsp://app.keepvision.com.br:554/live/B8CD3289-A286-4A11-9F9F-A5F94F02B8D9
+[05.12.2025, 16:03:14] ~Daniel Pegorer: https://1drv.ms/p/c/e21c3d132c2d3772/IQByNy0sEz0cIIDil4sAAAAAAU9P_AtgX7OciUBVvw4kpQc?e=2ayopx
+DIGIFORT
+[05.12.2025, 16:08:34] ~Daniel Pegorer: AXXON
+[05.12.2025, 16:08:36] ~Daniel Pegorer: https://1drv.ms/p/c/e21c3d132c2d3772/IQCBMO9pLjMxSrWowZCQVEAgAck3hTzbv2AqLVaIKmKfwsQ?e=AZfeR8
+[08.12.2025, 10:29:09] Vitalii Kazymyrovych: Hello, Daniel. Let's have a call regarding Hospital project. We have calculation result and some suggestions.
+[08.12.2025, 10:29:16] Vitalii Kazymyrovych: When are you avaliable?
+[08.12.2025, 14:58:14] ~Daniel Pegorer: Hi Vitalli, we can talk now if you have time.
+[08.12.2025, 14:58:15] Vitalii Kazymyrovych: I also need you to take a look at this doc I mentioned before. Please, review all the points and tell me if I should add anything else. 
+
+https://docs.google.com/document/d/1hKPrtAq0-izRRUMqbEwPtJv9D8ZwuS9ApbsTX0ATEb8/edit?usp=sharing
+[08.12.2025, 15:00:25] Vitalii Kazymyrovych: For now, I’ve only gathered all the requirements in one place. If you confirm that everything you need is there, we can schedule a long call to discuss each point in detail.
+
+After that, I’ll present these changes to our top management and advocate for them.
+[08.12.2025, 15:01:00] Vitalii Kazymyrovych: Let me ask Xavier when he is available. He wants to join us.
+[08.12.2025, 15:01:49] Vitalii Kazymyrovych: As for the presentations you shared with me, I'll make an analysis by the end of the week and then we will discuss.
+[08.12.2025, 15:02:59] ~Daniel Pegorer: OK. No problem
+[09.12.2025, 17:05:25] Vitalii Kazymyrovych: Hello, Danial. Did you check which mother boards do these servers have? Do we need to change them?
+[09.12.2025, 17:17:23] ~Daniel Pegorer: Hi Vitalli, I´m checking with the manufacturer. I had a meeting with PNY and they will give the best way to buy GPU´s in Brazil.
+[09.12.2025, 17:17:32] ~Daniel Pegorer: Take a look in this presentation.
+‎[09.12.2025, 17:17:54] ~Daniel Pegorer: DOC-20251209-WA0002.pdf • ‎15 pages ‎<attached: 00000041-DOC-20251209-WA0002.pdf>
+[09.12.2025, 17:28:19] Vitalii Kazymyrovych: Ok, I’ll take a look.
+[10.12.2025, 10:12:39] Vitalii Kazymyrovych: Hello. PNY definitely has cards we need: https://www.pny.com/GeForce-RTX-2080-Ti-11GB-Blower2
+
+The question is do they have these cards in required amount (we need 2 per server, so 14 total). 
+
+Also we can use 3090, which will give us even more recourses: https://www.pny.com/pny-geforce-rtx-3090-ti-24gb-xlr8-gaming-uprising-epic-x-rgb-overclocked-triple-fan
+
+If we choose 3090, we'll need only 1 GPU per server, so, no need to change motherboard. ‎<This message was edited>
+[10.12.2025, 10:15:59] Vitalii Kazymyrovych: From my research, one 3090 costs almost the same as two 2080 TI.
+[10.12.2025, 10:16:23] Vitalii Kazymyrovych: If these options isn't ok for you, I'll try to come up with something else.
+[10.12.2025, 10:18:36] Vitalii Kazymyrovych: Please, remind me the hardware budget (it's 5800 usd per server if I remember correctly)? And if 2 servers are already installed, that leaves us $40600 for the remaining ones. 
+
+Tell me is it correct?
+[10.12.2025, 10:22:14] Vitalii Kazymyrovych: I'm also waiting for your feedback regarding requirements document.
+[10.12.2025, 12:25:53] ~Daniel Pegorer: Hi Vitalli. Take a look in your document, I wrote all things yesterday.
+[10.12.2025, 12:51:58] Vitalii Kazymyrovych: ‎Voice call  ‎No answer
+[10.12.2025, 12:52:41] Vitalii Kazymyrovych: Sorry, just a brief question
+[10.12.2025, 12:53:16] Vitalii Kazymyrovych: We have to choose from the cards in that pdf?
+[10.12.2025, 12:53:29] Vitalii Kazymyrovych: Oh
+[10.12.2025, 12:53:32] Vitalii Kazymyrovych: Wait
+[10.12.2025, 12:53:39] Vitalii Kazymyrovych: 😅
+[10.12.2025, 12:53:58] Vitalii Kazymyrovych: I understood, you are talking about the other document))
+[10.12.2025, 12:55:24] Vitalii Kazymyrovych: Thank you for a feedback!)
+[10.12.2025, 12:56:48] ~Daniel Pegorer: About the machines to Hospital, unfortunately the machine will not accept two boards. It is a limitation to I9, I don´t know why.
+We have conditions just to change the board that we have there and for the new machines.
+I just need to know which board will be better to handle all system. I will try to change all boards.
+[10.12.2025, 12:57:40] Vitalii Kazymyrovych: We can go with one GPU if 3090 will be ok.
+[10.12.2025, 12:59:20] ~Daniel Pegorer: Give more options because I will analyse comparing pricing. PNY gave idea about some prices and belive in me, now we have how to buy something better. I know the way.
+[10.12.2025, 13:19:31] Vitalii Kazymyrovych: We need 10k cuda cores and 18GB vram per server. 
+
+These cards have such params:
+
+RTX 3090
+RTX 3090 Ti
+RTX 4090
+RTX A6000
+NVIDIA A40
+[10.12.2025, 13:20:25] Vitalii Kazymyrovych: But I’m telling you, 3090 — is the best choice in matter cost/power balance.
+[10.12.2025, 13:40:38] ~Daniel Pegorer: OK. I'm asking because here you can find more RTX5xxx or RTX6xxx
+[10.12.2025, 13:41:09] ~Daniel Pegorer: RTX 3090TI with x G?
+[10.12.2025, 14:09:57] Vitalii Kazymyrovych: RTX 3090 Ti always comes with 24 GB
+[10.12.2025, 14:10:12] Vitalii Kazymyrovych: Any of these will be excellent 
+
+	1.	RTX 5000 Ada (32 GB)
+	2.	RTX 6000 Ada (48 GB)
+	3.	RTX A5500 (24 GB)
+	4.	RTX A6000 (48 GB)
+[10.12.2025, 14:32:42] ~Daniel Pegorer: OK. Thanks a lot.
+[10.12.2025, 14:42:55] Vitalii Kazymyrovych: Anything else I can help you with, just let me know
+[10.12.2025, 14:44:04] ~Daniel Pegorer: Ok my friend.
+I need the project bank asap.
+[10.12.2025, 15:00:12] Vitalii Kazymyrovych: Understood
+[11.12.2025, 10:59:15] Vitalii Kazymyrovych: Hi. Have some things to discuss regarding bank project. Do you have time for a call today?
+[11.12.2025, 13:33:25] ~Daniel Pegorer: Hi Vitalli, Yes, we can talk. I was in a meeting with Axxon.
+I believe I can calll you in 2h, sounds good?
+[11.12.2025, 13:34:27] Vitalii Kazymyrovych: Yes, sounds excellent
+[11.12.2025, 15:07:47] ~Daniel Pegorer: ‎Missed voice call  ‎Tap to call back
+[11.12.2025, 15:08:26] Vitalii Kazymyrovych: I'm on another call yet, sorry
+[11.12.2025, 15:08:35] ~Daniel Pegorer: OK
+[11.12.2025, 15:08:49] Vitalii Kazymyrovych: I'll let you know as soon as free
+[11.12.2025, 15:10:18] ~Daniel Pegorer: I'm going to the hospital now. They called a few minutes ago asking my presence to solve VPN issue.
+[11.12.2025, 15:10:47] Vitalii Kazymyrovych: When will you be avaliable?
+[11.12.2025, 15:15:39] ~Daniel Pegorer: I can talk now, I'm inside the Uber.
+[11.12.2025, 15:16:18] Vitalii Kazymyrovych: Still on the call(
+[11.12.2025, 15:16:28] ~Daniel Pegorer: 😆
+[11.12.2025, 15:17:26] ~Daniel Pegorer: Now It's 4:17 PM in your country, right?
+[11.12.2025, 15:18:10] Vitalii Kazymyrovych: 3:18
+[11.12.2025, 15:49:10] Vitalii Kazymyrovych: Free. Call me when you can.
+[11.12.2025, 15:49:44] ~Daniel Pegorer: ‎Voice call  ‎22 min
+[12.12.2025, 10:55:41] Vitalii Kazymyrovych: Hello, Daniel. Waiting for the info so I could make a complete calculation for 3 scenarios. ‎<This message was edited>
+[12.12.2025, 15:04:39] ~Daniel Pegorer: Hi Vitalli, I´m checking with Argetina to be 100% with you.
+[12.12.2025, 16:04:53] Vitalii Kazymyrovych: Good, waiting then
+[15.12.2025, 11:23:01] Vitalii Kazymyrovych: Hello, Daniel. How are you? How was your weekend?
+[15.12.2025, 20:32:28] ~Daniel Pegorer: Hello Vitalli, I'm traveling to visit some customers in Chile. Sorry about my delay.
+[15.12.2025, 20:34:19] ~Daniel Pegorer: About Hospital, so, 3090TI 24G will be the best option about price x resources, right?
+‎[17.12.2025, 10:30:17] Vitalii Kazymyrovych: ‎<attached: 00000092-AUDIO-2025-12-17-10-30-17.opus>
+[17.12.2025, 14:57:22] ~Daniel Pegorer: Hi Vitalli, you are really sick. Take care my friend.
+[17.12.2025, 23:15:05] ~Daniel Pegorer: Hi Vitalli, I need that you confirm which GPU you prefer at this moment to Hospital machines.
+This RTX3090 20G is not easy to find here.
+Let me know if you prefer RTX A4500 20G or RTX 4070 SUPER 12G
+‎[17.12.2025, 23:15:13] ~Daniel Pegorer: ‎<attached: 00000095-PHOTO-2025-12-17-23-15-13.jpg>
+[18.12.2025, 14:57:04] ~Daniel Pegorer: Hi Vitalli, are you okay?
+[19.12.2025, 15:14:41] Vitalii Kazymyrovych: Hi. Much better now. What about you?
+[19.12.2025, 15:18:17] Vitalii Kazymyrovych: RTX A4500 20G good, but better to find RTX A5500 24 G. This extra 4 GB per card mean a lot.
+[19.12.2025, 15:19:02] Vitalii Kazymyrovych: This comparison doesn't matter as we have twice less VRAM
+[19.12.2025, 16:11:45] ~Daniel Pegorer: 4500 20G was something that I got changing the machines. A5500 24G has a huge difference in prices.
+[19.12.2025, 16:12:25] Vitalii Kazymyrovych: Understood
+[19.12.2025, 16:12:41] Vitalii Kazymyrovych: Well, if there is nothing we can do, let's go with 4500
+[15.01.2026, 18:25:33] Vitalii Kazymyrovych: Hello, Danial! How are you? How was your holidays?) I remember, we had great plans on this quarter. Are there any updates? Maybe you need help with something?
+[16.01.2026, 16:32:10] ~Daniel Pegorer: Hi Vitalli. I´m doing great and I hope the same for you and your family. 
+We need to go forward with Banco de la nacion. 
+I´m working with Axxon yet, unfortunately because we didn´t solve that questions about object tracker with CPU and you told there is no plan to do it. Believe or not, I´m fighting with a lot of brazilians companies and they are doing.
+So, I don´t know how to go forward, I´m totally lost.
+[16.01.2026, 16:32:57] ~Daniel Pegorer: Machines to hospital, I have changed the GPU to RTXA4500 20G. We will delivery 2 x servers next week
+[16.01.2026, 16:34:46] Vitalii Kazymyrovych: I remember we planned to use edge analytics for the bank project.
+Do you remember me mentioning that our VMS can receive data directly from the cameras?
+[16.01.2026, 16:35:14] Vitalii Kazymyrovych: Sounds great!
+[16.01.2026, 16:38:51] ~Daniel Pegorer: Yes, I remember. Is it ready?
+[16.01.2026, 17:30:53] Vitalii Kazymyrovych: Should be ready in February
+[16.01.2026, 17:32:03] ~Daniel Pegorer: From what year? It doesn't hurt to ask.
+[16.01.2026, 17:32:33] Vitalii Kazymyrovych: Hahah. No, I'm telling you, it's almost ready
+[16.01.2026, 17:32:47] Vitalii Kazymyrovych: As well as mobile application
+[16.01.2026, 17:34:02] ~Daniel Pegorer: Cool, very cool.
+And did you guys get approval from the bank in Mexico?
+[16.01.2026, 17:40:36] Vitalii Kazymyrovych: But, you know, receiving the payment would help speed things up)
+[16.01.2026, 17:40:47] Vitalii Kazymyrovych: we are top company from the last 3. its taking more time but we Will get it. ISS, Avigilon and Us in the final round
+[16.01.2026, 17:43:34] ~Daniel Pegorer: I never said you should do things for free, because these are things we are already paying Axxon for, but unfortunately, the resources you need for simple things are greater. That is the point at issue.
+[16.01.2026, 17:43:50] ~Daniel Pegorer: I´m praying for your company.
