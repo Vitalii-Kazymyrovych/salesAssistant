@@ -1,2 +1,5 @@
 2026-02-01: Translated vault content to English, renamed Customers, updated schemas, and added People notes (tests: bash ./mvnw test -Dspring.task.scheduling.enabled=false)
 2026-02-01: Updated vault schema guide, removed schema_version from notes, refreshed note structure documentation (tests: ./mvnw test -Dspring.task.scheduling.enabled=false)
+2026-02-02: Moved .gitignore to repo root and updated ignore rules. (tests: ./mvnw test -Dspring.task.scheduling.enabled=false -Dingestion.enabled=false -Dai.enabled=false -Dreminders.enabled=false -Dtranscription.enabled=false)
+2026-02-02: Formatted WhatsApp chats into dialog notes and moved chat documents to the vault documents folder. (tests: not run - content changes only)
+2026-02-02: Moved agent log usage to vault AGENT_LOG.md and updated instructions. (tests: not run - documentation change only)

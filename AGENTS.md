@@ -30,13 +30,13 @@ If a term is not listed here, it must not be invented.
 ## Agent discipline
 
 ### Logs and documentation
-- Before starting work, read AGENT‑LOG.md
+- Before starting work, read assistantVault/00 Util/AGENT_LOG.md
 - After completing work:
-  - append a factual entry to AGENT‑LOG.md
+  - append a factual entry to assistantVault/00 Util/AGENT_LOG.md
   - update README.md if behavior changed
 - After code changes, run tests
 
-### Log format (AGENT‑LOG.md)
+### Log format (assistantVault/00 Util/AGENT_LOG.md)
 - Append‑only
 - Factual, no commentary
 - Prefer:
@@ -115,4 +115,3 @@ Agents must respect these flags.
 > User = editor‑in‑chief
 
 Any feature contradicting this model must not be implemented.
-
